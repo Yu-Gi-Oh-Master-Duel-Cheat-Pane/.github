@@ -1,0 +1,2 @@
+# .github
+Windows cheat panel for Yu-Gi-Oh! Master Duel with unlimited gems, instant card unlock, and no banlist limits. Built for the digital card game where building the perfect deck and climbing the ranked ladder matters more than grinding through duels for gems and crafting points.
